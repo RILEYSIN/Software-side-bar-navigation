@@ -26,14 +26,6 @@ This side navigation bar is designed with reusability in mind:
 * **Dynamic Content:** Integrate JavaScript to dynamically load navigation links from a data source.
 * **Accessibility Improvements:** Ensure proper keyboard navigation and ARIA attributes for better accessibility.
 
-## Usage:
-
-[Provide clear and concise instructions on how to use your component. For example:]
-
-1.  Copy the `index.html` (or the relevant HTML structure) into your project.
-2.  Include the `styles.css` (or the relevant CSS) in your project's CSS.
-3.  Modify the HTML content (the `<a>` tags and their text) to match your website's navigation links.
-4.  Customize the `styles.css` to fit your project's visual design.
 
 ## Author:
 
