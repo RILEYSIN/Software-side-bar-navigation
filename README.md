@@ -26,6 +26,10 @@ This side navigation bar is designed with reusability in mind:
 * **Dynamic Content:** Integrate JavaScript to dynamically load navigation links from a data source.
 * **Accessibility Improvements:** Ensure proper keyboard navigation and ARIA attributes for better accessibility.
 
+  TO TEST IT'S RESPONSIVENESS  :
+  on mobile: when you open the link and click on the menu icon on the top right , you should see a cool ease in amination with all the menu buttons
+  on PC: when you open the link , you should see a normal navigation bar at the top of the page , but when you open dev tools and adjust its responsiveness you should see the navigation bar transform into a side bar.
+
 
 ## Author:
 
